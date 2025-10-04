@@ -1,0 +1,10 @@
+{
+  "name": "DoomSaver",
+  "description": "Your attention alarm clock.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup/sanity_check.html",
+    "default_icon": "images/sanity_check.png"
+  }
+}
